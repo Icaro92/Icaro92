@@ -1,14 +1,6 @@
 ## Hi there, I'm Icaro 👋
 
-A multidisciplinary professional with a background in Humanities and an expertise in business and data science. 
-
-Early on, I understood that it is essential to approach problems holistically to create real-life solutions to complex problems.
-That's why I'm passionate about learning and strive to be a life-long learner. 
-This repository is for my data-science personal growth and projects. 
-
-My experience allows me to engage across technical and business teams, facilitating dialogue and collaborative environments.
-Which I've found to be a great place to stand and learn constantly.
-
+I’m a Marketing and Analytics professional with experience turning data into business decisions, with a growing focus on Marketing Science.
 
 ### 📚 Education:
 - **Bachelor’s**: International Relations - São Paulo State University (UNESP)
