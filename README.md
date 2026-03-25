@@ -14,7 +14,7 @@ Which I've found to be a great place to stand and learn constantly.
 - **Bachelor’s**: International Relations - São Paulo State University (UNESP)
 - **Postgraduate**: Marketing and Business - Saint Paul Business School
 - **Specialization**: Business - Ohio University
-- **Data Science Specialization** - DNC Academy
+- **Data Science Course** - DNC Academy
 
 ### 🛠️ Technologies:
 - Python
